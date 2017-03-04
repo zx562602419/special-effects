@@ -1,2 +1,2 @@
 # special-effects
-js特效
+js特效收藏
